@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravs8489" target="blank"><img src="https://img.shields.io/twitter/follow/gauravs8489?logo=twitter&style=for-the-badge" alt="gauravs8489" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+
 
 - 📫 How to reach me **gauravsehrawat16@gmail.com**
 
